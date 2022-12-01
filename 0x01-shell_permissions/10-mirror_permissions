@@ -1,3 +1,2 @@
 #!/bin/bash
-touch olley
-chmod 753 olley
+chmod --reference=olleh hello
