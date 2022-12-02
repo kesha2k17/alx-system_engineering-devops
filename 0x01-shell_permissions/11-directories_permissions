@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod upo+x
+chmod -R +x .
